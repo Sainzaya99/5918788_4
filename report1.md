@@ -2,7 +2,7 @@
 
 1. 알고리즘 정보
 - 방법: 유클리드 호제법 (반복문)
-- 코드: https://github.com/Sainzaya99/5918788_4/blob/main/my_math.c
+- 코드: https://github.com/Sainzaya99/5918788_4/blob/main/my_math.c    (22 ~ 33)
 
 2. 시간 복잡도 (Big-O)
 - 결과: O(log n)
